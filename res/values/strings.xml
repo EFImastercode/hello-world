@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiAppMod3</string>
+    <string name="texto">Bienvenidos</string>
+    <string name="boton">Enviar</string>
+</resources>
