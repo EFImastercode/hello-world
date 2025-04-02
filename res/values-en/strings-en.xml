@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiAppMod3</string>
+    <string name="texto">Wellcome</string>
+    <string name="boton">Send</string>
+</resources>
